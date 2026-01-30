@@ -1,0 +1,83 @@
+/*--------------------------------------------------------------
+# CTA Page - Premium Interactive Experience
+# Buheeri Group U Ltd
+--------------------------------------------------------------*/
+
+/* Import AOS for scroll animations */
+@import url('https://unpkg.com/aos@2.3.1/dist/aos.css');
+
+/* CSS Variables */
+:root {
+  --navy: #0A1A2F;
+  --gold: #D4A017;
+  --emerald: #0F8A5F;
+  --gray: #F5F7FA;
+  --white: #FFFFFF;
+  --dark-overlay: rgba(10, 26, 47, 0.8);
+  --gold-glow: rgba(212, 160, 23, 0.3);
+}
+
+/* Base Styles */
+.cta-page {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+  color: var(--navy);
+  overflow-x: hidden;
+}
+
+.cta-page h1, .cta-page h2, .cta-page h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+.gold-text {
+  color: var(--gold);
+}
+
+/*--------------------------------------------------------------
+# Navigation
+--------------------------------------------------------------*/
+.cta-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: rgba(10, 26, 47, 0.95);
+  backdrop-filter: blur(10px);
+  z-index: 1000;
+  padding: 15px 0;
+  transition: all 0.3s ease;
+}
+
+.cta-nav .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-logo .logo-text {
+  font-family: 'Poppins', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--white);
+  text-decoration: none;
+}
+
+.nav-logo .gold {
+  color: var(--gold);
+}
+
+.nav-back {
+  color: var(--white);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav-back:hover {
+  color: var(--gold);
+}
+
+/*--------------------------------------------------------------
+# Hero CTA Section
+----------------------------------------------------------

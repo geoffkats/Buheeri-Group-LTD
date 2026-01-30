@@ -1,0 +1,232 @@
+[08-Jan-2026 21:08:11 Africa/Kampala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''5'' at line 1 in C:\wamp64\www\Logis\includes\database.php:294
+Stack trace:
+#0 C:\wamp64\www\Logis\includes\database.php(294): PDOStatement->execute(Array)
+#1 C:\wamp64\www\Logis\admin\index.php(18): Database->getRecentContacts(5)
+#2 {main}
+  thrown in C:\wamp64\www\Logis\includes\database.php on line 294
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "image" in C:\wamp64\www\Logis\admin\projects.php on line 68
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "featured" in C:\wamp64\www\Logis\admin\projects.php on line 90
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "image" in C:\wamp64\www\Logis\admin\projects.php on line 68
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "featured" in C:\wamp64\www\Logis\admin\projects.php on line 90
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "image" in C:\wamp64\www\Logis\admin\projects.php on line 68
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "featured" in C:\wamp64\www\Logis\admin\projects.php on line 90
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "image" in C:\wamp64\www\Logis\admin\projects.php on line 68
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "featured" in C:\wamp64\www\Logis\admin\projects.php on line 90
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "image" in C:\wamp64\www\Logis\admin\projects.php on line 68
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "featured" in C:\wamp64\www\Logis\admin\projects.php on line 90
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "image" in C:\wamp64\www\Logis\admin\projects.php on line 68
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "featured" in C:\wamp64\www\Logis\admin\projects.php on line 90
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "image" in C:\wamp64\www\Logis\admin\projects.php on line 68
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "featured" in C:\wamp64\www\Logis\admin\projects.php on line 90
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "image" in C:\wamp64\www\Logis\admin\projects.php on line 68
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "featured" in C:\wamp64\www\Logis\admin\projects.php on line 90
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "image" in C:\wamp64\www\Logis\admin\projects.php on line 68
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Warning:  Undefined array key "featured" in C:\wamp64\www\Logis\admin\projects.php on line 90
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 21:13:12 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\projects.php:0
+[08-Jan-2026 21:21:11 Africa/Kampala] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\wamp64\www\Logis\includes\database.php on line 415
+[08-Jan-2026 21:21:13 Africa/Kampala] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\wamp64\www\Logis\includes\database.php on line 415
+[08-Jan-2026 21:21:13 Africa/Kampala] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\wamp64\www\Logis\includes\database.php on line 415
+[08-Jan-2026 21:21:18 Africa/Kampala] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\wamp64\www\Logis\includes\database.php on line 415
+[08-Jan-2026 21:21:18 Africa/Kampala] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\wamp64\www\Logis\includes\database.php on line 415
+[08-Jan-2026 21:22:59 Africa/Kampala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'client' in 'field list' in C:\wamp64\www\Logis\includes\database.php:400
+Stack trace:
+#0 C:\wamp64\www\Logis\includes\database.php(400): PDOStatement->execute(Array)
+#1 C:\wamp64\www\Logis\admin\projects.php(56): Database->updateProject('1', 'Kampala Commerc...', 'construction', 'A 10-story mixe...', '', '', 'active', 0, 'assets/img/proj...')
+#2 {main}
+  thrown in C:\wamp64\www\Logis\includes\database.php on line 400
+[08-Jan-2026 21:23:51 Africa/Kampala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'client' in 'field list' in C:\wamp64\www\Logis\includes\database.php:400
+Stack trace:
+#0 C:\wamp64\www\Logis\includes\database.php(400): PDOStatement->execute(Array)
+#1 C:\wamp64\www\Logis\admin\projects.php(56): Database->updateProject('1', 'Kampala Commerc...', 'construction', 'A 10-story mixe...', '', '', 'active', 0, 'assets/img/proj...')
+#2 {main}
+  thrown in C:\wamp64\www\Logis\includes\database.php on line 400
+[08-Jan-2026 21:24:10 Africa/Kampala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'client' in 'field list' in C:\wamp64\www\Logis\includes\database.php:400
+Stack trace:
+#0 C:\wamp64\www\Logis\includes\database.php(400): PDOStatement->execute(Array)
+#1 C:\wamp64\www\Logis\admin\projects.php(56): Database->updateProject('1', 'Kampala Commerc...', 'construction', 'A 10-story mixe...', '', '', 'active', 0, 'assets/img/proj...')
+#2 {main}
+  thrown in C:\wamp64\www\Logis\includes\database.php on line 400
+[08-Jan-2026 21:24:18 Africa/Kampala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'client' in 'field list' in C:\wamp64\www\Logis\includes\database.php:400
+Stack trace:
+#0 C:\wamp64\www\Logis\includes\database.php(400): PDOStatement->execute(Array)
+#1 C:\wamp64\www\Logis\admin\projects.php(56): Database->updateProject('1', 'Kampala Commerc...', 'construction', 'A 10-story mixe...', '', '', 'active', 0, 'assets/img/proj...')
+#2 {main}
+  thrown in C:\wamp64\www\Logis\includes\database.php on line 400
+[08-Jan-2026 21:24:49 Africa/Kampala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'client' in 'field list' in C:\wamp64\www\Logis\includes\database.php:400
+Stack trace:
+#0 C:\wamp64\www\Logis\includes\database.php(400): PDOStatement->execute(Array)
+#1 C:\wamp64\www\Logis\admin\projects.php(56): Database->updateProject('1', 'Kampala Commerc...', 'construction', 'A 10-story mixe...', '', '', 'active', 0, 'assets/img/serv...')
+#2 {main}
+  thrown in C:\wamp64\www\Logis\includes\database.php on line 400
+[08-Jan-2026 21:27:14 Africa/Kampala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'featured' in 'field list' in C:\wamp64\www\Logis\includes\database.php:400
+Stack trace:
+#0 C:\wamp64\www\Logis\includes\database.php(400): PDOStatement->execute(Array)
+#1 C:\wamp64\www\Logis\admin\projects.php(56): Database->updateProject('1', 'Kampala Commerc...', 'construction', 'A 10-story mixe...', '', '', 'active', 0, 'assets/img/serv...')
+#2 {main}
+  thrown in C:\wamp64\www\Logis\includes\database.php on line 400
+[08-Jan-2026 21:27:46 Africa/Kampala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'featured' in 'field list' in C:\wamp64\www\Logis\includes\database.php:400
+Stack trace:
+#0 C:\wamp64\www\Logis\includes\database.php(400): PDOStatement->execute(Array)
+#1 C:\wamp64\www\Logis\admin\projects.php(56): Database->updateProject('1', 'Kampala Commerc...', 'construction', 'A 10-story mixe...', '', '', 'active', 0, 'assets/img/proj...')
+#2 {main}
+  thrown in C:\wamp64\www\Logis\includes\database.php on line 400
+[08-Jan-2026 21:30:12 Africa/Kampala] PHP Fatal error:  Uncaught Error: Call to undefined method Database::getAllProjects() in C:\wamp64\www\Logis\admin\projects.php:82
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\projects.php on line 82
+[08-Jan-2026 21:30:17 Africa/Kampala] PHP Fatal error:  Uncaught Error: Call to undefined method Database::getAllProjects() in C:\wamp64\www\Logis\admin\projects.php:82
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\projects.php on line 82
+[08-Jan-2026 21:30:17 Africa/Kampala] PHP Fatal error:  Uncaught Error: Call to undefined method Database::getAllProjects() in C:\wamp64\www\Logis\admin\projects.php:82
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\projects.php on line 82
+[08-Jan-2026 21:30:18 Africa/Kampala] PHP Fatal error:  Uncaught Error: Call to undefined method Database::getAllProjects() in C:\wamp64\www\Logis\admin\projects.php:82
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\projects.php on line 82
+[08-Jan-2026 21:30:22 Africa/Kampala] PHP Fatal error:  Uncaught Error: Call to undefined method Database::getAllProjects() in C:\wamp64\www\Logis\admin\projects.php:82
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\projects.php on line 82
+[08-Jan-2026 21:44:59 Africa/Kampala] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\wamp64\www\Logis\includes\database.php on line 431
+[08-Jan-2026 21:45:03 Africa/Kampala] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\wamp64\www\Logis\includes\database.php on line 431
+[08-Jan-2026 21:45:47 Africa/Kampala] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\wamp64\www\Logis\includes\database.php on line 431
+[08-Jan-2026 21:45:57 Africa/Kampala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'buheeri.job_positions' doesn't exist in C:\wamp64\www\Logis\includes\database.php:433
+Stack trace:
+#0 C:\wamp64\www\Logis\includes\database.php(433): PDO->query('SELECT * FROM j...')
+#1 C:\wamp64\www\Logis\admin\job-positions.php(66): Database->getAllJobPositions(1, 10)
+#2 {main}
+  thrown in C:\wamp64\www\Logis\includes\database.php on line 433
+[08-Jan-2026 23:28:02 Africa/Kampala] PHP Warning:  Undefined variable $db in C:\wamp64\www\Logis\admin\settings.php on line 15
+[08-Jan-2026 23:28:02 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 23:28:02 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\settings.php:0
+[08-Jan-2026 23:28:02 Africa/Kampala] PHP Warning:  Attempt to read property "pdo" on null in C:\wamp64\www\Logis\admin\settings.php on line 15
+[08-Jan-2026 23:28:02 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 23:28:02 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\settings.php:0
+[08-Jan-2026 23:28:02 Africa/Kampala] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in C:\wamp64\www\Logis\admin\settings.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 15
+[08-Jan-2026 23:28:05 Africa/Kampala] PHP Warning:  Undefined variable $db in C:\wamp64\www\Logis\admin\settings.php on line 15
+[08-Jan-2026 23:28:05 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 23:28:05 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\settings.php:0
+[08-Jan-2026 23:28:05 Africa/Kampala] PHP Warning:  Attempt to read property "pdo" on null in C:\wamp64\www\Logis\admin\settings.php on line 15
+[08-Jan-2026 23:28:05 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 23:28:05 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\settings.php:0
+[08-Jan-2026 23:28:05 Africa/Kampala] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in C:\wamp64\www\Logis\admin\settings.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 15
+[08-Jan-2026 23:28:30 Africa/Kampala] PHP Warning:  Undefined variable $db in C:\wamp64\www\Logis\admin\settings.php on line 15
+[08-Jan-2026 23:28:30 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 23:28:30 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\settings.php:0
+[08-Jan-2026 23:28:30 Africa/Kampala] PHP Warning:  Attempt to read property "pdo" on null in C:\wamp64\www\Logis\admin\settings.php on line 15
+[08-Jan-2026 23:28:30 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 23:28:30 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\settings.php:0
+[08-Jan-2026 23:28:30 Africa/Kampala] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in C:\wamp64\www\Logis\admin\settings.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 15
+[08-Jan-2026 23:29:00 Africa/Kampala] PHP Warning:  Undefined variable $db in C:\wamp64\www\Logis\admin\settings.php on line 15
+[08-Jan-2026 23:29:00 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 23:29:00 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\settings.php:0
+[08-Jan-2026 23:29:00 Africa/Kampala] PHP Warning:  Attempt to read property "pdo" on null in C:\wamp64\www\Logis\admin\settings.php on line 15
+[08-Jan-2026 23:29:00 Africa/Kampala] PHP Stack trace:
+[08-Jan-2026 23:29:00 Africa/Kampala] PHP   1. {main}() C:\wamp64\www\Logis\admin\settings.php:0
+[08-Jan-2026 23:29:00 Africa/Kampala] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in C:\wamp64\www\Logis\admin\settings.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 15
+[08-Jan-2026 23:29:25 Africa/Kampala] PHP Fatal error:  Uncaught Error: Cannot access private property Database::$pdo in C:\wamp64\www\Logis\admin\settings.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 17
+[08-Jan-2026 23:29:30 Africa/Kampala] PHP Fatal error:  Uncaught Error: Cannot access private property Database::$pdo in C:\wamp64\www\Logis\admin\settings.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 17
+[08-Jan-2026 23:29:42 Africa/Kampala] PHP Fatal error:  Uncaught Error: Cannot access private property Database::$pdo in C:\wamp64\www\Logis\admin\settings.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 17
+[08-Jan-2026 23:29:55 Africa/Kampala] PHP Fatal error:  Uncaught Error: Cannot access private property Database::$pdo in C:\wamp64\www\Logis\admin\settings.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 17
+[08-Jan-2026 23:30:19 Africa/Kampala] PHP Fatal error:  Uncaught Error: Cannot access private property Database::$pdo in C:\wamp64\www\Logis\admin\settings.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 17
+[08-Jan-2026 23:30:19 Africa/Kampala] PHP Fatal error:  Uncaught Error: Cannot access private property Database::$pdo in C:\wamp64\www\Logis\admin\settings.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 17
+[08-Jan-2026 23:30:20 Africa/Kampala] PHP Fatal error:  Uncaught Error: Cannot access private property Database::$pdo in C:\wamp64\www\Logis\admin\settings.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 17
+[08-Jan-2026 23:30:21 Africa/Kampala] PHP Fatal error:  Uncaught Error: Cannot access private property Database::$pdo in C:\wamp64\www\Logis\admin\settings.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 17
+[08-Jan-2026 23:30:21 Africa/Kampala] PHP Fatal error:  Uncaught Error: Cannot access private property Database::$pdo in C:\wamp64\www\Logis\admin\settings.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 17
+[08-Jan-2026 23:30:22 Africa/Kampala] PHP Fatal error:  Uncaught Error: Cannot access private property Database::$pdo in C:\wamp64\www\Logis\admin\settings.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 17
+[08-Jan-2026 23:30:22 Africa/Kampala] PHP Fatal error:  Uncaught Error: Cannot access private property Database::$pdo in C:\wamp64\www\Logis\admin\settings.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 17
+[08-Jan-2026 23:30:23 Africa/Kampala] PHP Fatal error:  Uncaught Error: Cannot access private property Database::$pdo in C:\wamp64\www\Logis\admin\settings.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 17
+[08-Jan-2026 23:30:23 Africa/Kampala] PHP Fatal error:  Uncaught Error: Cannot access private property Database::$pdo in C:\wamp64\www\Logis\admin\settings.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 17
+[08-Jan-2026 23:30:34 Africa/Kampala] PHP Fatal error:  Uncaught Error: Cannot access private property Database::$pdo in C:\wamp64\www\Logis\admin\settings.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\Logis\admin\settings.php on line 17
