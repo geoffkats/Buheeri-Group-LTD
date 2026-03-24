@@ -46,7 +46,7 @@ define('DB_TYPE', 'mysql'); // sqlite, mysql, pgsql
 define('DB_HOST', 'localhost'); // For MySQL/PostgreSQL
 define('DB_NAME', 'buheeri'); // For MySQL/PostgreSQL
 define('DB_USER', 'root'); // For MySQL/PostgreSQL
-define('DB_PASS', '17811781'); // For MySQL/PostgreSQL
+define('DB_PASS', ''); // For MySQL/PostgreSQL
 define('DB_CHARSET', 'utf8mb4');
 
 // =============================================================================
